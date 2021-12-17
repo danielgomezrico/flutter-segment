@@ -1,4 +1,4 @@
-## 3.5.0
+## 3.5.0 
 * iOS: we are forcing to use `use_frameworks!`
 
 ## 3.4.1
